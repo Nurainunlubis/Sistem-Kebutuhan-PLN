@@ -1,5 +1,5 @@
 import React from 'react'
-import noDataImage from '../assets/no_data.png'
+import noDataImage from '../assets/no_Data.png'
 
 const NoData = () => {
   return (
