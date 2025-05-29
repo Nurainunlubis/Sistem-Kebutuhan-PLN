@@ -27,7 +27,7 @@ import Orders from "../pages/Orders";
 import AdminAnalytics from "../pages/AdminAnalytics";
 import AdminOrderPage from "../pages/AdminOrderPage";
 import EditProfile from "../pages/EditProfile";
-import Landing from "../pages/landing";
+import Landing from "../pages/Landing";
 import AllUsers from "../pages/AllUser";
 import AdminOrderDetailPage from "../pages/AdminOrderDetailPage";
 import SuratJalan from "../pages/SuratJalan";
